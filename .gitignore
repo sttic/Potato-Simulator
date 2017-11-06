@@ -1,0 +1,28 @@
+*.meta
+
+.vs/
+Build/
+Build_OS X/
+Library/
+potatoTest_Data/
+ProjectSettings/
+
+potato (for OS X).zip
+Potato.CSharp.csproj
+Potato.CSharp.Editor.csproj
+Potato.CSharp.Plugins.csproj
+Potato.sln
+
+Assets/Assets/
+Assets/Editor/
+Assets/Materials/
+Assets/Models/
+Assets/Prefabs/
+Assets/Standard Assets/
+Assets/Terrain/
+Assets/Type/
+
+Assets/controls.png
+Assets/controls2.png
+
+Assets/Assets/
